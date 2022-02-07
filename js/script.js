@@ -19,4 +19,4 @@ const isChecked = true,
       isClose = false;
 
 console.log(isChecked || !isClose);
-23323ититьить
+23323ититьитьsad
