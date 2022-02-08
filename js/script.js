@@ -18,5 +18,7 @@ console.log(2*4 === 8);
 const isChecked = true,
       isClose = false;
 
-console.log(isChecked || !isClose);
-23323ититьитьsad
+function multip(a, b) {
+    return a*b;
+}
+multip(10,2);
