@@ -38,3 +38,14 @@ for (let i = 0; i < 2; i++) {
 
 console.log(personalMovieDB);
 
+function show(text) {
+    console.log(text);
+}
+show('Hello');
+
+
+const logg = "Так и думал чот";
+console.log(logg.substr(6,10));
+
+
+
